@@ -2342,7 +2342,7 @@ body {
     position: sticky;
     top: var(--header-height, 87px);
     z-index: 90;
-    background: var(--paper);
+    background: #f8eaf0;
     padding: 14px 0 12px;
     margin: 18px 0 12px;
     border-bottom: 1px solid var(--line)
